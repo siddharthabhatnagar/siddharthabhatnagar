@@ -52,7 +52,3 @@ Here are a few of my pinned repositories worth checking out:
 - 🧭 `AI Article and Youtube Video Summarizer` – Built for Hackahazard(national level hackathon)
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-
