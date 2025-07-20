@@ -32,7 +32,7 @@ I'm a passionate **Android Developer** crafting modern, clean, and performant mo
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/siddhartha-bhatnagar-89992027b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/siddhartha-bhatnagar-89992027b/)]
 
 ---
 
