@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Siddhartha Bhatnagar
 
-<!--
-**siddharthabhatnagar/siddharthabhatnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Android Developer** crafting modern, clean, and performant mobile apps using **Kotlin**, **Jetpack Compose**, and **MVVM architecture**. I enjoy turning designs into seamless user experiences and writing scalable, testable code with **Hilt**, **Retrofit**, and modern Android practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Kotlin, Java
+- **Architecture:** MVVM, Clean Architecture
+- **UI:** Jetpack Compose, XML Layouts, Material 3
+- **Dependency Injection:** Hilt
+- **Networking:** Retrofit, OkHttp
+- **Database:** Firebase Realtime Database,FireStore
+- **Async:** Coroutines, Flow, LiveData
+- **Other Tools:** Git, Jetpack Libraries
+
+---
+
+## 🚀 Currently Working On
+
+- 📱 A BusBuddy **Jetpack Compose app** using MVVM + Hilt
+- 🔧 Use to track buses using driver or admin mobile location
+
+---
+
+## 📈 GitHub Stats
+
+
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/siddhartha-bhatnagar-89992027b/))
+
+---
+
+## 💡 Fun Facts
+
+- 🎨 I love designing intuitive UIs using Jetpack Compose
+- 🧠 Always exploring Android best practices and performance optimization
+- 🌍 Open to remote collaborations and contributing to Android OSS
+
+---
+
+## 📌 Featured Projects
+
+Here are a few of my pinned repositories worth checking out:
+
+- 🔄 `Weather App` – A Jetpack Compose weather app using MVVM + Retrofit + Hilt
+- 🧭 `AI Article and Youtube Video Summarizer` – Built for Hackahazard(national level hackathon)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
